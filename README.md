@@ -1,0 +1,1 @@
+This script creates an automated, closed-loop simulation where two different AI models talk directly to each other. One model plays the role of a empathetic mental health counselor (Gemini), while the other acts as a stressed software developer attending their first session (Ollama running Llama 3.2).
