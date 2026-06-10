@@ -248,10 +248,6 @@ Sessions are saved as `session_transcript.txt` with:
 - [LiteLLM Docs](https://docs.litellm.ai/)
 - [Therapeutic Communication Techniques](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4360391/)
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
 ## 👤 Author
 
 **Devanshi Gite**  
