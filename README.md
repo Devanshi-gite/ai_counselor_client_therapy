@@ -257,18 +257,6 @@ This project is open source and available under the MIT License.
 **Devanshi Gite**  
 GitHub: [@Devanshi-gite](https://github.com/Devanshi-gite)
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Submit bug reports or feature requests via Issues
-- Fork the repo and submit Pull Requests
-- Share improvements to prompts or conversation flow
-
-## 💬 Feedback
-
-Have questions or suggestions? Open an issue on GitHub or reach out directly.
-
----
 
 **Happy exploring! 🚀**
 
